@@ -1,5 +1,4 @@
 # InfoB473-Assignment-1
-# INFO-B 473/B573 Assignment 1
 
 ## Programmer Information
 
