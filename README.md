@@ -2,7 +2,7 @@
 
 ## Programmer Information
 
-Programmer made by Abdul Djama
+Program made by Abdul Djama
 
 Language: Bash
 
